@@ -1,4 +1,4 @@
-![ZeeKotomori's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeeKotomori&show_icons=true&theme=radical&card_width=1/2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeKotomori&layout=compact&theme=radical&card_width=1/2&langs_count=8)
+![ZeeKotomori's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeeKotomori&show_icons=true&theme=radical&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeKotomori&layout=compact&theme=radical&card_width=300&langs_count=8)
 ## 🏆 GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=ZeeKotomori&theme=dracula&margin-w=10)
